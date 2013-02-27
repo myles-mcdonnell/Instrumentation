@@ -56,13 +56,13 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Instrumentation.Logging\Instrumentation.Logging.Contract.csproj">
+    <ProjectReference Include="..\Instrumentation.Logging.Contract\Instrumentation.Logging.Contract.csproj">
       <Project>{8F8A62DB-DC90-48C0-8995-821323B7FB14}</Project>
       <Name>Instrumentation.Logging.Contract</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Intrumentation.Logging\Intrumentation.Logging.csproj">
+    <ProjectReference Include="..\Instrumentation.Logging\Instrumentation.Logging.csproj">
       <Project>{A2863564-A21A-4AF8-88D9-C3E98654E8E1}</Project>
-      <Name>Intrumentation.Logging</Name>
+      <Name>Instrumentation.Logging</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

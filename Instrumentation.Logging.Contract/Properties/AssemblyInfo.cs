@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Intrumentation.Logging")]
+[assembly: AssemblyTitle("Instrumentation.Logging")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Intrumentation.Logging")]
+[assembly: AssemblyProduct("Instrumentation.Logging")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("cbc83fe0-4786-4753-901a-9c1c4bbfa362")]
+[assembly: Guid("c1a0a56a-a5dc-4af0-b904-75218991cb5a")]
 
 // Version information for an assembly consists of the following four values:
 //

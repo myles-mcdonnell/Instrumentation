@@ -1,4 +1,4 @@
-﻿namespace Intrumentation.Logging
+﻿namespace Instrumentation.Logging
 {
     public class KeyedLog
     {

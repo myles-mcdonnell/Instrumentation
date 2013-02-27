@@ -1,5 +1,5 @@
 ﻿using FluentAssertions;
-using Intrumentation.Logging.Volatile;
+using Instrumentation.Logging.Volatile;
 using NUnit.Framework;
 
 namespace Instrumentation.Logging.UnitTests

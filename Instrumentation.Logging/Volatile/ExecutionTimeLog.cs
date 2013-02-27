@@ -1,7 +1,7 @@
 ﻿using System.Threading;
 using Instrumentation.Logging.Contract;
 
-namespace Intrumentation.Logging.Volatile
+namespace Instrumentation.Logging.Volatile
 {
     public class ExecutionTimeLog : CallCountLog, IMethodExecutionTimeLog
     {

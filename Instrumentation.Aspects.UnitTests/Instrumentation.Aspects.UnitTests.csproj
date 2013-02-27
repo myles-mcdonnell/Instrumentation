@@ -68,7 +68,7 @@
       <Project>{E4BEA39F-FB1F-48E6-9E24-93414644EA9F}</Project>
       <Name>Instrumentation.Aspects</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Instrumentation.Logging\Instrumentation.Logging.Contract.csproj">
+    <ProjectReference Include="..\Instrumentation.Logging.Contract\Instrumentation.Logging.Contract.csproj">
       <Project>{8F8A62DB-DC90-48C0-8995-821323B7FB14}</Project>
       <Name>Instrumentation.Logging.Contract</Name>
     </ProjectReference>

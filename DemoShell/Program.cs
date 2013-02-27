@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Amib.Threading;
 using Authorisation;
 using Instrumentation.Aspects;
-using Intrumentation.Logging.Volatile;
+using Instrumentation.Logging.Volatile;
 
 namespace DemoShell
 {
